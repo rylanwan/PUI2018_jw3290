@@ -1,4 +1,5 @@
 Homework #1
+
 Create Alias for folder PUI2018
 
 1) Acessed my .bash profile and added two lines to setup alias for folder PUI2018, which would allow this folder to be access more easily
