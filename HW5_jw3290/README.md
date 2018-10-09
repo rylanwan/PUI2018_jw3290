@@ -1,5 +1,5 @@
 
-**ANOVA Analyses**
+**1) ANOVA Analyses**
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
@@ -10,7 +10,7 @@ ANOVA	| 1. validity (valid, invalid) 2. gaze position (top, center, bottom) 3.ta
   ![main plot](ANOVA2.png)
   
   
- **Correlation Analyses**
+ **2) Correlation Analyses**
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
@@ -19,7 +19,7 @@ Correlation	| error rates | numerical | Regions of Interest(ROI) modulation | nu
   
   ![main plot](Correlation.png)
 
-**Logistic Regression Analyses**
+**3) Logistic Regression Analyses**
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
